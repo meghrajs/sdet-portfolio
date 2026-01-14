@@ -16,25 +16,29 @@ https://github.com/meghrajs/java-selenium-restassured-framework
 
 ---
 
-## 2) Automation + CI Demo
-- **Resume Website Assessment** — Cypress + Docker + Jenkinsfile  
-  https://github.com/meghrajs/resume-website-assessment  
-  _Focus: containerized execution + pipeline-style runs_
+## ⚙️ Automation + CI Demo (Pipeline Mindset)
+### Resume Website Assessment — Cypress + Docker + Jenkinsfile
+https://github.com/meghrajs/resume-website-assessment  
+**What to review:** containerized execution, Jenkins-style pipeline thinking, repeatable runs.
 
 ---
 
-## 3) Developer Tooling
-- **Laravel Log Viewer Lite** — debugging utility  
-  https://github.com/meghrajs/laravel-log-viewer-lite  
-  _Focus: practical tooling mindset + observability_
+## 🧰 Developer Tooling (Observability / Debuggability)
+### Laravel Log Viewer Lite — debugging utility
+https://github.com/meghrajs/laravel-log-viewer-lite  
+**What to review:** practical tooling mindset, debugging UX, developer productivity.
 
 ---
 
-## 4) Private Work (Redacted Case Studies)
+## 🔒 Private Work (Redacted Case Studies)
+These are sanitized, public-safe writeups showing scope, constraints, decisions, and outcomes.
+
 - Stripe Webhooks & Billing Reliability  
   https://github.com/meghrajs/sdet-portfolio/blob/main/case-studies/stripe-webhooks-billing-reliability.md
+
 - Transaction History & Audit Trails  
   https://github.com/meghrajs/sdet-portfolio/blob/main/case-studies/transaction-history-audit-trails.md
+
 - Automation & CI: Resume Assessment  
   https://github.com/meghrajs/sdet-portfolio/blob/main/case-studies/automation-ci-resume-assessment.md
 
