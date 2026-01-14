@@ -4,11 +4,12 @@ A curated portfolio of **automation frameworks, CI setups, and reliability patte
 
 ---
 
-## 1) Flagship Framework (Recommended Start)
-- **Playwright Enterprise Framework (TypeScript)** — UI + API + E2E + CI  
-  https://github.com/meghrajs/playwright-enterprise-ts  
-  _Focus: structure, tagging, CI artifacts, reliability patterns_
-  
+## ⭐ Flagship Frameworks
+
+### 1) Playwright Enterprise Framework (TypeScript) — UI + API + E2E + CI
+https://github.com/meghrajs/playwright-enterprise-ts  
+**What to review:** tagging (`@smoke/@regression`), CI artifacts (report + traces), clean fixtures/pages, reliability patterns.
+
 ### 2) Java Enterprise Automation Framework — Selenium + REST Assured + CI
 https://github.com/meghrajs/java-selenium-restassured-framework  
 **What to review:** TestNG groups (`smoke/regression/ui/api/e2e`), WebDriverManager setup, screenshots + surefire artifacts, CI smoke vs regression split.
