@@ -16,6 +16,14 @@ https://github.com/meghrajs/java-selenium-restassured-framework
 
 ---
 
+## 🧩 Framework Generator
+
+### SuiteMate (SuiteCrafter) — Automation Framework Generator (Playwright / Cypress / Selenium)
+https://github.com/meghrajs/suite-crafter  
+**What to review:** framework scaffolding approach, opinionated best-practice defaults, CI/Docker templates, consistent structure for scale.
+
+---
+
 ## ⚙️ Automation + CI Demo (Pipeline Mindset)
 ### Resume Website Assessment — Cypress + Docker + Jenkinsfile
 https://github.com/meghrajs/resume-website-assessment  
