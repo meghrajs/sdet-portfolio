@@ -24,21 +24,21 @@ https://github.com/meghrajs/suite-crafter
 
 ---
 
-## ⚙️ Automation + CI Demo (Pipeline Mindset)
+## ⚙️ Automation + CI Demo
 ### Resume Website Assessment — Cypress + Docker + Jenkinsfile
 https://github.com/meghrajs/resume-website-assessment  
 **What to review:** containerized execution, Jenkins-style pipeline thinking, repeatable runs.
 
 ---
 
-## 🧰 Developer Tooling (Observability / Debuggability)
+## 🧰 Developer Tooling
 ### Laravel Log Viewer Lite — debugging utility
 https://github.com/meghrajs/laravel-log-viewer-lite  
 **What to review:** practical tooling mindset, debugging UX, developer productivity.
 
 ---
 
-## 🔒 Private Work (Redacted Case Studies)
+## 🔒 Private Work
 These are sanitized, public-safe writeups showing scope, constraints, decisions, and outcomes.
 
 - Stripe Webhooks & Billing Reliability  
